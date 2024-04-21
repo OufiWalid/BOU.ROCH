@@ -8,7 +8,7 @@
 }
 
 /* Annuler la décoration des liens et définir la couleur du texte */
-a {
+.wrapper .button a {
   text-decoration: none;
   color: inherit; /* Utilisez la couleur du texte par défaut de l'élément parent */
 }
